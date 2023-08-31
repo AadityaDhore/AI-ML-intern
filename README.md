@@ -12,3 +12,6 @@ Output: The translated Hinglish sentence is generated as output. In our case, th
 
 
 Implementation: The program likely uses a predefined dictionary or mapping of English words to their Hinglish counterparts. It could use conditional statements or lookups in a data structure like a dictionary to perform the translation
+
+Performance Evaluation : the performance/accuracy  of the model is defined by the actual conversion of words from engish to hindi expect some words that keeps as it is in English 
+for e.g :- the word "Bag" keep same as "Bag" after translating into hinglish
